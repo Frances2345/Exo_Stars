@@ -1,0 +1,64 @@
+[8180:21284:1012/110933.105:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8180:21284:1012/110933.116:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[8180:21284:1012/110933.157:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8180:21284:1012/110938.593:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[8180:4332:1012/110938.593:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8180:4332:1012/110938.598:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8180:4332:1012/110938.601:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8180:4332:1012/110938.603:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8180:29392:1012/110938.905:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8180:32472:1012/110938.988:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8180:32472:1012/110938.991:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6488:35668:1012/110942.992:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-39C9A7F5F05931FE52282E229BBACF52 will be ignored
+[32820:3076:1012/110944.808:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32820:26764:1012/110944.822:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32820:26764:1012/110944.822:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32820:26764:1012/110944.823:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34792:22880:1012/110945.004:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34792:22880:1012/110945.004:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[32820:26764:1012/110945.004:WARNING:stun_port.cc(442)] Port[102dc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34792:22880:1012/110945.004:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[32820:26764:1012/110945.004:WARNING:stun_port.cc(442)] Port[131c000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32820:26764:1012/110945.004:WARNING:stun_port.cc(442)] Port[131c400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34792:22880:1012/110945.005:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34792:22880:1012/110945.005:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[32820:26764:1012/110945.005:WARNING:stun_port.cc(442)] Port[102dc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34792:22880:1012/110945.005:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[32820:26764:1012/110945.005:WARNING:stun_port.cc(442)] Port[131c000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32820:26764:1012/110945.005:WARNING:stun_port.cc(442)] Port[131c400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34792:22880:1012/110945.009:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[34792:22880:1012/110945.009:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[34792:22880:1012/110945.009:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[32820:26764:1012/110945.009:WARNING:stun_port.cc(442)] Port[102dc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32820:26764:1012/110945.010:WARNING:stun_port.cc(442)] Port[131c000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32820:26764:1012/110945.010:WARNING:stun_port.cc(442)] Port[131c400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[8180:21168:1012/110946.330:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[8180:21284:1012/110947.327:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8180:21284:1012/110947.327:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8180:21284:1012/110947.328:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8180:21284:1012/110947.328:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8180:21168:1012/110947.330:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[28280:34944:1012/110948.991:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28280:26788:1012/110949.013:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28280:26788:1012/110949.014:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28280:26788:1012/110949.014:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34792:22880:1012/110949.339:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34792:22880:1012/110949.339:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34792:22880:1012/110949.339:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34792:22880:1012/110949.339:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34792:22880:1012/110949.339:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34792:22880:1012/110949.339:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34792:22880:1012/110949.340:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[28280:26788:1012/110949.340:WARNING:stun_port.cc(442)] Port[eeac00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34792:22880:1012/110949.340:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[28280:26788:1012/110949.340:WARNING:stun_port.cc(442)] Port[eeb400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34792:22880:1012/110949.340:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[28280:26788:1012/110949.340:WARNING:stun_port.cc(442)] Port[1264000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[28280:26788:1012/110949.340:WARNING:stun_port.cc(442)] Port[eeac00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[28280:26788:1012/110949.340:WARNING:stun_port.cc(442)] Port[eeb400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[28280:26788:1012/110949.340:WARNING:stun_port.cc(442)] Port[1264000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[28280:26788:1012/110949.340:WARNING:stun_port.cc(442)] Port[eeac00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[28280:26788:1012/110949.340:WARNING:stun_port.cc(442)] Port[eeb400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[28280:26788:1012/110949.340:WARNING:stun_port.cc(442)] Port[1264000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[28280:34944:1012/110952.538:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8180:21284:1012/111036.462:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
