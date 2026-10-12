@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Alumno/Downloads/EXo_Stars/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/A1/D139ZJ35S2D214UOGAUDES.uasset",
+				"C:/Users/Alumno/Downloads/EXo_Stars/Content/NewNiagaraEmitter.uasset"
+			]
+		}
+	]
+}
