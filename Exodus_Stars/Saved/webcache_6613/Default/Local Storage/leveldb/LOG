@@ -1,3 +1,2 @@
-2026/10/12-16:35:21.000 57f0 Reusing MANIFEST C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/12-16:35:21.005 57f0 Recovering log #3
-2026/10/12-16:35:21.007 57f0 Reusing old log C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/10/16-13:37:32.866 3178 Creating DB C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/10/16-13:37:32.887 3178 Reusing MANIFEST C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
