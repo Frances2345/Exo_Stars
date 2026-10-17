@@ -1,6 +1,7 @@
-2026/10/16-13:37:32.814 8b14 Log #6: 10 ops saved to Table #7 OK
-2026/10/16-13:37:32.817 8b14 Archiving C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/10/16-13:37:32.818 8b14 Table #4: 2 entries OK
-2026/10/16-13:37:32.818 8b14 Table #7: 10 entries OK
-2026/10/16-13:37:32.822 8b14 Archiving C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/10/16-13:37:32.829 8b14 **** Repaired leveldb C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 445 bytes. Some data may have been lost. ****
+2026/10/17-14:22:09.369 39ec Log #9: 1 ops saved to Table #10 OK
+2026/10/17-14:22:09.371 39ec Archiving C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Site Characteristics Database/000009.log: OK
+2026/10/17-14:22:09.372 39ec Table #4: 2 entries OK
+2026/10/17-14:22:09.372 39ec Table #7: 10 entries OK
+2026/10/17-14:22:09.373 39ec Table #10: 1 entries OK
+2026/10/17-14:22:09.377 39ec Archiving C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/17-14:22:09.386 39ec **** Repaired leveldb C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 607 bytes. Some data may have been lost. ****
