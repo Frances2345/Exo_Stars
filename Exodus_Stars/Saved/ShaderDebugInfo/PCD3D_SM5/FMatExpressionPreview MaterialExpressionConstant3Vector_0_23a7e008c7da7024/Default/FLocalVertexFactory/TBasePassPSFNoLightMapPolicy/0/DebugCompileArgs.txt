@@ -1,0 +1,1 @@
+"E:/Trabajos/Github/Exo_Stars/Exodus_Stars/Saved/ShaderDebugInfo/PCD3D_SM5/FMatExpressionPreview MaterialExpressionConstant3Vector_0_23a7e008c7da7024/Default/FLocalVertexFactory/TBasePassPSFNoLightMapPolicy/0" 0 "DebugCompile" DebugCompile.in DebugCompile.out -DebugSourceFiles="BasePassPixelShader.usf" -TimeToLive=0.0f -KeepInput

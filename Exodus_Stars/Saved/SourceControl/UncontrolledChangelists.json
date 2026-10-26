@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"E:/Trabajos/Github/Exo_Stars/Exodus_Stars/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Trabajos/Github/Exo_Stars/Exodus_Stars/Content/FirstPerson/LAB10.umap",
+				"E:/Trabajos/Github/Exo_Stars/Exodus_Stars/Content/FirstPerson/Blueprints/BP_LaserHazard.uasset",
+				"E:/Trabajos/Github/Exo_Stars/Exodus_Stars/Content/FirstPerson/Blueprints/BP_HealthTrigger.uasset",
+				"E:/Trabajos/Github/Exo_Stars/Exodus_Stars/Content/LevelPrototyping/Materials/ColorcitoRojo.uasset",
+				"E:/Trabajos/Github/Exo_Stars/Exodus_Stars/Content/LevelPrototyping/Materials/Color.uasset",
+				"E:/Trabajos/Github/Exo_Stars/Exodus_Stars/Content/FirstPerson/Blueprints/BP_HeathRecover.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Exo_Stars/Exodus_Stars/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/A2/UECFP9KJER9SFK8VQI4M8U.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Exo_Stars/Exodus_Stars/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/HS/42BFH9IVTINOLAM83S26BA.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Exo_Stars/Exodus_Stars/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/46/4O2PVGPJDKHBTWMZLPJSU0.uasset",
