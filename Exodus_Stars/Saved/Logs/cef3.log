@@ -1,175 +1,149 @@
-[35108:21076:1123/084418.140:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[35108:21076:1123/084418.157:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
-[35108:21076:1123/084418.223:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[35108:33628:1123/084422.826:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35108:33628:1123/084422.851:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35108:33628:1123/084422.855:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35108:33628:1123/084422.859:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35108:16276:1123/084423.424:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[35108:16276:1123/084423.428:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[36012:34324:1123/084425.727:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 19
-[36012:34324:1123/084425.758:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 11
-[36012:34324:1123/084426.465:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084426.485:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/084426.550:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/084426.559:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
-[35108:28056:1123/084426.579:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/084426.678:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/084426.682:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/084426.699:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/084426.722:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/084426.722:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/084426.766:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/084427.361:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084427.389:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084430.415:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084430.438:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084431.659:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084431.675:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084432.041:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084432.062:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084433.528:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084433.549:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084439.743:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084441.342:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084442.244:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084442.332:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084442.653:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084443.243:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084443.274:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084446.168:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084450.051:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084450.073:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084451.392:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084453.073:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084454.365:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084455.707:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084455.935:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084456.749:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084456.891:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084459.012:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084504.762:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084512.619:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084748.857:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084748.875:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084759.167:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/084808.703:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/084829.390:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/085217.553:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/085217.572:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/085217.903:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/085217.936:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/085225.902:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/085240.869:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/085627.184:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/085649.415:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/085649.433:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/085701.717:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/085703.249:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/085712.837:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/092842.189:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/092842.207:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/092846.091:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/092846.107:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/092851.715:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/092855.707:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/092902.551:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/092905.311:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/093529.845:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/093529.861:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/093530.442:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/093531.035:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/093544.030:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/093552.715:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/095704.467:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/095704.508:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/095708.375:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/095719.273:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/095727.268:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100013.528:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100013.553:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/100014.429:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/100014.906:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/100021.939:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/100025.706:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/100036.239:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/100056.498:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/100109.584:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/100205.086:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/100307.253:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100310.842:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100321.226:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100324.409:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/100338.153:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/100427.254:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100427.273:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100441.505:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100453.743:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100524.222:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100524.248:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100535.644:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100538.609:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100548.097:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100552.180:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100605.799:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100613.783:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100613.806:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100621.001:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100621.029:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100623.776:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100626.896:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100628.891:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100637.128:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100637.346:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100638.350:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/100647.477:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101036.989:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101037.022:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/101037.100:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/101041.094:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/101049.468:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/101051.180:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/101057.460:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101107.747:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/101238.637:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/101318.128:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101318.147:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101328.287:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101343.573:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101439.675:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101439.700:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101520.920:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101520.945:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101531.333:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101531.723:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101532.424:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101540.226:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101545.862:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101556.501:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101907.672:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101916.665:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/101931.478:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/102028.540:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/102254.818:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/102257.077:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/102300.018:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102301.662:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102303.327:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102305.014:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102315.997:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102326.660:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102350.458:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102400.595:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102403.996:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102405.612:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102418.996:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102433.666:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102456.333:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102456.669:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/102500.481:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/102506.670:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[36012:34324:1123/102508.666:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[36012:34324:1123/102519.666:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[35108:28056:1123/102533.506:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:28056:1123/102550.820:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[35108:21076:1123/102551.193:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25068:5420:1123/121652.115:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25068:5420:1123/121652.174:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25068:33632:1123/121655.248:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25068:33632:1123/121655.251:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25068:33632:1123/121655.255:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25068:33632:1123/121655.258:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25068:33632:1123/121655.493:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25068:33632:1123/121655.495:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7764:20788:1123/121656.536:ERROR:backend_impl.cc(989)] Critical error found -8
+[7764:20788:1123/121656.583:WARNING:storage_block-inl.h(138)] Failed data load.
+[7764:20788:1123/121656.583:WARNING:storage_block-inl.h(138)] Failed data load.
+[7764:20788:1123/121656.584:WARNING:storage_block-inl.h(138)] Failed data load.
+[7764:20788:1123/121656.586:WARNING:storage_block-inl.h(138)] Failed data load.
+[7764:20788:1123/121656.586:ERROR:entry_impl.cc(955)] Failed to save user data
+[7764:20788:1123/121656.586:ERROR:entry_impl.cc(955)] Failed to save user data
+[4212:17452:1123/121657.194:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D0C5614DD1030DF082B7753A97E5D1FF will be ignored
+[7764:8592:1123/121658.865:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121658.867:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[11500:30476:1123/121659.039:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11500:39456:1123/121659.057:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11500:39456:1123/121659.057:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11500:39456:1123/121659.058:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[25068:22704:1123/121659.128:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7764:8592:1123/121659.249:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121659.250:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121659.251:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121659.255:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121659.255:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121659.257:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[7764:8592:1123/121659.257:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[11500:39456:1123/121659.257:WARNING:stun_port.cc(442)] Port[1612400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7764:8592:1123/121659.257:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[7764:8592:1123/121659.258:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[11500:39456:1123/121659.258:WARNING:stun_port.cc(442)] Port[1612c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7764:8592:1123/121659.258:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[7764:8592:1123/121659.258:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[11500:39456:1123/121659.258:WARNING:stun_port.cc(442)] Port[1613400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[11500:39456:1123/121659.258:WARNING:stun_port.cc(442)] Port[1612400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[11500:39456:1123/121659.258:WARNING:stun_port.cc(442)] Port[1612c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[11500:39456:1123/121659.259:WARNING:stun_port.cc(442)] Port[1613400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7764:8592:1123/121659.266:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121659.267:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[7764:8592:1123/121659.267:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[11500:39456:1123/121659.267:WARNING:stun_port.cc(442)] Port[1612400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7764:8592:1123/121659.267:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[11500:39456:1123/121659.267:WARNING:stun_port.cc(442)] Port[1612c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[11500:39456:1123/121659.267:WARNING:stun_port.cc(442)] Port[1613400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[25068:22704:1123/121659.286:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7764:8592:1123/121659.532:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121659.534:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25068:22704:1123/121659.864:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[25068:5420:1123/121700.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[25068:5420:1123/121700.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[25068:5420:1123/121700.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[25068:5420:1123/121700.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[25068:22704:1123/121700.201:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[34460:15664:1123/121701.526:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34460:22300:1123/121701.554:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34460:22300:1123/121701.555:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34460:22300:1123/121701.555:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7764:8592:1123/121701.915:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121701.917:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121701.917:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121701.920:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121701.920:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[7764:8592:1123/121701.920:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[34460:22300:1123/121701.920:WARNING:stun_port.cc(442)] Port[1b18c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7764:8592:1123/121701.921:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[34460:22300:1123/121701.921:WARNING:stun_port.cc(442)] Port[1b1b400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34460:22300:1123/121701.921:WARNING:stun_port.cc(442)] Port[1f30000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7764:8592:1123/121701.921:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121701.921:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[7764:8592:1123/121701.922:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[7764:8592:1123/121701.922:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34460:22300:1123/121701.922:WARNING:stun_port.cc(442)] Port[1b18c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7764:8592:1123/121701.922:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[7764:8592:1123/121701.922:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34460:22300:1123/121701.922:WARNING:stun_port.cc(442)] Port[1b1b400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[7764:8592:1123/121701.922:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[7764:8592:1123/121701.922:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34460:22300:1123/121701.922:WARNING:stun_port.cc(442)] Port[1f30000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34460:22300:1123/121701.923:WARNING:stun_port.cc(442)] Port[1b18c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34460:22300:1123/121701.923:WARNING:stun_port.cc(442)] Port[1b1b400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34460:22300:1123/121701.923:WARNING:stun_port.cc(442)] Port[1f30000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34460:15664:1123/121703.649:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[25068:22812:1123/121707.199:ERROR:sandbox_directory_database.cc(915)] SandboxDirectoryDatabase failed at: Init@storage\browser\file_system\sandbox_directory_database.cc:715 with error: IO error: C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25068:22812:1123/121707.199:WARNING:sandbox_directory_database.cc(727)] Corrupted SandboxDirectoryDatabase detected. Attempting to repair.
+[7764:8592:1123/121708.535:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121714.535:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121719.678:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121727.132:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121736.231:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121736.253:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121748.336:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121801.543:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25068:22704:1123/121909.774:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15752:2516:1123/121912.406:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15752:2516:1123/121912.407:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[7764:8592:1123/121912.466:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
+[7764:8592:1123/121912.493:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 9
+[7764:8592:1123/121912.550:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121912.588:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25068:22704:1123/121915.444:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7764:8592:1123/121923.973:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/121936.262:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25068:22704:1123/121942.849:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/122125.527:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/122613.579:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/122629.710:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/123045.488:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/123221.977:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/123649.970:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/125745.733:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/125746.749:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/125747.085:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/131032.050:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/131126.393:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/135427.350:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7764:8592:1123/140913.792:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/140913.820:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25068:22704:1123/140920.159:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7764:8592:1123/140922.359:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/140923.113:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/140930.805:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25068:22704:1123/150914.347:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7764:8592:1123/150914.924:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/151003.292:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25068:5420:1123/152347.679:ERROR:device_event_log_impl.cc(196)] [15:23:47.574] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[25068:22704:1123/155134.097:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7764:8592:1123/155612.813:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/160926.051:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/160931.007:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/162129.103:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/162129.126:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/162141.682:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/162157.463:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/163713.953:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/163714.005:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/163727.157:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/163738.931:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25068:22704:1123/164317.239:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/165522.917:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7764:8592:1123/170230.776:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/170255.450:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[7764:8592:1123/170307.466:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[25068:22704:1123/170412.537:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:22704:1123/170445.997:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25068:5420:1123/171241.537:ERROR:device_event_log_impl.cc(196)] [17:12:41.400] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[25068:5420:1123/172250.462:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

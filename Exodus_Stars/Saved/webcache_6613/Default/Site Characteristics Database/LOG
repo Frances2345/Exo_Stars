@@ -1,1 +1,16 @@
-2026/11/23-08:44:18.293 5228 Reusing MANIFEST C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/11/23-12:16:52.183 9434 Reusing MANIFEST C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/11/23-12:16:52.185 9434 Recovering log #12
+2026/11/23-12:16:52.185 9434 Level-0 table #12: started
+2026/11/23-12:16:52.191 9434 Level-0 table #12: 162 bytes OK
+2026/11/23-12:16:52.191 9434 Recovering log #15
+2026/11/23-12:16:52.192 9434 Reusing old log C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\Site Characteristics Database/000015.log 
+2026/11/23-12:16:52.195 9434 Delete type=0 #12
+2026/11/23-12:16:52.195 9434 Delete type=2 #16
+2026/11/23-12:16:52.196 8670 Compacting 4@0 + 0@1 files
+2026/11/23-12:16:52.201 8670 Generated table #16@0: 2 keys, 191 bytes
+2026/11/23-12:16:52.201 8670 Compacted 4@0 + 0@1 files => 191 bytes
+2026/11/23-12:16:52.205 8670 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/11/23-12:16:52.205 8670 Delete type=2 #4
+2026/11/23-12:16:52.205 8670 Delete type=2 #7
+2026/11/23-12:16:52.205 8670 Delete type=2 #10
+2026/11/23-12:16:52.206 8670 Delete type=2 #12
