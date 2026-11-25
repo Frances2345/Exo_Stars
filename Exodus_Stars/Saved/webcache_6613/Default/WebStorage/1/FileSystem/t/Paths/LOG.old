@@ -1,5 +1,6 @@
-2026/11/23-12:17:07.205 591c Log #3: 8 ops saved to Table #4 OK
-2026/11/23-12:17:07.205 591c Archiving C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000003.log: OK
-2026/11/23-12:17:07.206 591c Table #4: 8 entries OK
-2026/11/23-12:17:07.207 591c Archiving C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: OK
-2026/11/23-12:17:07.211 591c **** Repaired leveldb C:\Users\Alumno\Documents\GitHub\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths; recovered 1 files; 256 bytes. Some data may have been lost. ****
+2026/11/25-00:12:30.525 1f4c Log #6: 5 ops saved to Table #7 OK
+2026/11/25-00:12:30.526 1f4c Archiving E:\Trabajos\Github\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000006.log: OK
+2026/11/25-00:12:30.526 1f4c Table #4: 8 entries OK
+2026/11/25-00:12:30.526 1f4c Table #7: 5 entries OK
+2026/11/25-00:12:30.529 1f4c Archiving E:\Trabajos\Github\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: OK
+2026/11/25-00:12:30.629 1f4c **** Repaired leveldb E:\Trabajos\Github\Exo_Stars\Exodus_Stars\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths; recovered 2 files; 508 bytes. Some data may have been lost. ****
